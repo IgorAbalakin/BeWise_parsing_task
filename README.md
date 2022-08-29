@@ -20,4 +20,4 @@
 
 **Пример выполнения**
 
-![](https://github.com/IgorAbalakin/HH_data_project/blob/main/png/age%20distribution.png?raw=true) 
+![](https://raw.githubusercontent.com/IgorAbalakin/BeWise_parsing_task/main/table_screen.png) 
